@@ -5,7 +5,7 @@
 @section('content')
 
 {{-- Hero --}}
-<div class="bg-blue-950 p-10 rounded-2xl text-gray-100 text-center mb-12 shadow-xl" data-aos="fade-up">
+<div class="bg-blue-950 p-10 rounded-2xl text-gray-100 text-center mb-12 shadow-xl " data-aos="fade-up">
     <h1 class="text-5xl md:text-7xl font-extrabold mb-4">Welcome to Only Cars</h1>
     <p class="text-lg md:text-xl">Hosting events for car enthusiasts 🚗🔥</p>
 </div>
